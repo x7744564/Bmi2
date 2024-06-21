@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">猜數字</string>
+    <string name="app_name">BMI</string>
     <string name="enter_number">輸入一個數字</string>
     <string name="please_enter_number_1_10">輸入一個數字(1-10):</string>
-    <string name="guess">猜數字</string>
+    <string name="guess">計算BMI</string>
     <string name="smaller">小一點</string>
     <string name="bigger">大一點</string>
     <string name="you_got_it">恭喜!猜對了</string>
     <string name="info">提示</string>
     <string name="ok">確定</string>
+    <string name="toolight">過輕</string>
+    <string name="servereobesity">過度肥胖</string>
+    <string name="moderatelyobese">中度肥胖</string>
+    <string name="mildobesity">輕度肥胖</string>
+    <string name="tooheavy">過重</string>
+    <string name="standard">標準</string>
+    <string name="weight">體重</string>
+    <string name="height">身高</string>
+    <string name="enter_weight">輸入您的體重</string>
+    <string name="enter_height">輸入你的身高(單位:公尺)</string>
 </resources>
